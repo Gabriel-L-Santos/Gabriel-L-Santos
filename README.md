@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, meu nome é Gabriel Leme dos Santos</h1>
+<h1 align="center">Olá mundo👋, meu nome é Gabriel Leme dos Santos</h1>
 <h3 align="center">Sou desenvolvedor front-end, as linguagens e ferramentas que eu uso são: HTML, CSS e JavaScript.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-l-santos&label=Profile%20views&color=0eb42f&style=plastic" alt="gabriel-l-santos" /> </p>
