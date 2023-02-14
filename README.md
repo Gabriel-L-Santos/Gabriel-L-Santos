@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gabriel-l-santos&label=Profile%20views&color=0eb42f&style=plastic" alt="gabriel-l-santos" /> </p>
 
-- 🌱 Meus conhecimentos: **HTML, CSS, JavaScript**
+- 🌱 Tecnologias que uso: **HTML, CSS, JavaScript**
 
 - 👨‍💻 Todos os meus projetos estão aqui no GitHub: [https://github.com/Gabriel-L-Santos?tab=repositories](https://github.com/Gabriel-L-Santos?tab=repositories)
 
