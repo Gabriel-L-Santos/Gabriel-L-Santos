@@ -1,4 +1,4 @@
-<h1 align="center">Olá mundo, meu nome é Gabriel Leme dos Santos 👋</h1>
+<h1 align="center">Olá, meu nome é Gabriel Leme dos Santos 👋</h1>
 <h3 align="center">Sou desenvolvedor front-end, as linguagens e ferramentas que uso são: HTML, CSS, JavaScript, jQuery e ReactJS.</h3>
 
 - 🌱 Tecnologias que uso: **HTML, CSS, JavaScript, jQuery, ReactJS**
