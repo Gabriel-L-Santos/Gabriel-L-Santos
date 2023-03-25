@@ -10,7 +10,6 @@ Olá, meu nome é Gabriel Leme dos Santos 👋<br>Sou desenvolvedor front-end<br
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=Gabriel-L-Santos&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=Gabriel-L-Santos&theme=synthwave&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-L-Santos&theme=synthwave&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=Gabriel-L-Santos&icon=0&color=11)](https://visitcount.itsvg.in)
