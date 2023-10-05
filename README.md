@@ -1,5 +1,5 @@
 # 💫 About Me:
-Olá, meu nome é Gabriel Leme dos Santos 👋<br>Sou desenvolvedor front-end<br><br>🌱 Tecnologias que uso: HTML, CSS, JavaScript, ReactJS, jQuery<br><br>👨‍💻 Todos os meus projetos estão aqui no GitHub https://github.com/Gabriel-L-Santos?tab=repositories<br><br>📫 Meu email de contato é gabriellemesantos@gmail.com
+Olá, meu nome é Gabriel Leme dos Santos 👋<br>Sou desenvolvedor front-end<br><br>🌱 Tecnologias que uso: HTML, CSS, JavaScript, ReactJS<br><br>👨‍💻 Todos os meus projetos estão aqui no GitHub https://github.com/Gabriel-L-Santos?tab=repositories<br><br>📫 Meu email de contato é gabriellemesantos@gmail.com
 
 
 ## 🌐 Socials:
